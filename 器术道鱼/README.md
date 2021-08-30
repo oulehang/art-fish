@@ -12,3 +12,8 @@
 
 ## git地址
 
+https://github.com/oulehang/art-fish.git
+
+## 日报地址
+
+https://vatmlmcetd.feishu.cn/docs/doccnzzlItgYIp8yjt78pxdyDEg
